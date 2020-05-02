@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "464380659156",
+    "firebase_url": "https://test-payment-stripe.firebaseio.com",
+    "project_id": "test-payment-stripe",
+    "storage_bucket": "test-payment-stripe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464380659156:android:c7a8e5c1548226aab8c241",
+        "android_client_info": {
+          "package_name": "com.powerfromonhigh.testpayment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464380659156-5kjfcf3jjknj7flfjtt3dkj0vp9qgbuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLplmjmXc84AgTDeGQ-54FoBSH-bvjBMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464380659156-5kjfcf3jjknj7flfjtt3dkj0vp9qgbuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
